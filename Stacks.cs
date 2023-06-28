@@ -6,6 +6,7 @@ namespace Stacks
     {
         static void Main(string[] args)
         {
+            // pirveli shedis bolo gamodis. anu davita shevida pirveli da gamova bolo
             // creating
             Stack stack = new Stack();
 
